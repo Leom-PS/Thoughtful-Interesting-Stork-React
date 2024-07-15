@@ -1,0 +1,186 @@
+.footer1-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: var(--dl-color-theme-primary1);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: row;
+  padding-bottom: 32px;
+  justify-content: center;
+  background-color: #ffffff;
+  border-top-width: 3px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.footer1-main {
+  flex: 0 0 auto;
+  width: 1140px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  margin-left: 280px;
+  margin-right: 280px;
+  flex-direction: column;
+}
+.footer1-container1 {
+  width: 1140px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.footer1-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.footer1-container3 {
+  flex: 0 0 auto;
+  width: 190px;
+  display: flex;
+  align-items: flex-start;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.footer1-text {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text01 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text02 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-container4 {
+  flex: 0 0 auto;
+  width: 190px;
+  display: flex;
+  align-items: flex-start;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.footer1-text03 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text04 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text05 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text06 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text07 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text08 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-container5 {
+  flex: 0 0 auto;
+  width: 190px;
+  display: flex;
+  align-items: flex-start;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.footer1-text09 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text10 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text11 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-container6 {
+  flex: 0 0 auto;
+  width: 190px;
+  display: flex;
+  align-items: flex-start;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.footer1-text12 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text13 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text14 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text15 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text16 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-container7 {
+  flex: 0 0 auto;
+  width: 190px;
+  display: flex;
+  align-items: flex-start;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.footer1-text17 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text18 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-text19 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}
+.footer1-container8 {
+  flex: 0 0 auto;
+  width: 190px;
+  display: flex;
+  align-items: flex-start;
+  margin-right: 0px;
+  flex-direction: column;
+}
+.footer1-image {
+  width: 181px;
+  height: 38px;
+  object-fit: cover;
+  text-decoration: none;
+}
+.footer1-text20 {
+  fill: var(--dl-color-default-texttertiary);
+  color: var(--dl-color-default-texttertiary);
+  margin-top: 5px;
+}
+
+@media(max-width: 1600px) {
+  .footer1-text20 {
+    fill: #999998ff;
+    color: #999998ff;
+  }
+}

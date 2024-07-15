@@ -1,0 +1,54 @@
+.primary-button-light-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.primary-button-light-button {
+  gap: 8px;
+  width: auto;
+  height: auto;
+  display: flex;
+  padding: 12px 24px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-width: 0px;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(255, 102, 51, 1);
+}
+.primary-button-light-text {
+  fill: var(--dl-color-theme-neutral-light);
+  color: var(--dl-color-theme-neutral-light);
+}
+.primary-button-light-chevron-right {
+  width: 16px;
+  height: 16px;
+}
+.primary-button-light-root-class-name {
+  width: 100%;
+  margin-top: var(--dl-space-space-unit);
+}
+.primary-button-light-root-class-name1 {
+  width: 100%;
+}
+.primary-button-light-root-class-name2 {
+  width: 100%;
+}
+
+.primary-button-light-root-class-name4 {
+  width: 100%;
+}
+
+.primary-button-light-root-class-name6 {
+  width: 100%;
+}
+.primary-button-light-root-class-name7 {
+  width: 100%;
+  margin-top: var(--dl-space-space-unit);
+}
+
+

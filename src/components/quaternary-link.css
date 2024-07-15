@@ -1,0 +1,18 @@
+.quaternary-link-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.quaternary-link-text {
+  fill: var(--dl-color-text-text-linkorange);
+  color: var(--dl-color-text-text-linkorange);
+  margin-right: var(--dl-space-space-halfunit);
+}
+.quaternary-link-chevron-down {
+  width: 16px;
+  height: 16px;
+}

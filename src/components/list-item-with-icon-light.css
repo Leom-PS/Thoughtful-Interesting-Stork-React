@@ -1,0 +1,26 @@
+.list-item-with-icon-light-container {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.list-item-with-icon-light-frame1 {
+  gap: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.list-item-with-icon-light-image {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.list-item-with-icon-light-text {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+}

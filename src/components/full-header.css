@@ -1,0 +1,33 @@
+.full-header-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+.full-header-image {
+  width: 200px;
+  object-fit: cover;
+}
+.full-header-image1 {
+  width: 200px;
+  object-fit: cover;
+}
+.full-header-image2 {
+  width: 200px;
+  object-fit: cover;
+}
+.full-header-image3 {
+  width: 200px;
+  object-fit: cover;
+}
+.full-header-image4 {
+  width: 200px;
+  object-fit: cover;
+}
+.full-header-image5 {
+  width: 200px;
+  object-fit: cover;
+}
+.full-header-image6 {
+  width: 200px;
+  object-fit: cover;
+}

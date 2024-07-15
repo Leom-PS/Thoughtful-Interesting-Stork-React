@@ -1,0 +1,108 @@
+.header-light-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.header-light-default-header {
+  gap: 80px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 12px 0;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.header-light-logos-portswigger {
+  width: 249px;
+  height: 42px;
+}
+.header-light-navigation {
+  gap: 40px;
+  display: flex;
+  align-items: center;
+}
+.header-light-container1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-light-text {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+  margin-right: var(--dl-space-space-halfunit);
+}
+.header-light-chevron-down {
+  width: 16px;
+  height: 16px;
+}
+.header-light-container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-light-text1 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+  margin-right: var(--dl-space-space-halfunit);
+}
+.header-light-chevron-down1 {
+  width: 16px;
+  height: 16px;
+}
+.header-light-text2 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+  margin-right: 0px;
+}
+.header-light-text3 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+  margin-right: 0px;
+}
+.header-light-container3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-light-text4 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+  margin-right: var(--dl-space-space-halfunit);
+}
+.header-light-chevron-down2 {
+  width: 16px;
+  height: 16px;
+}
+.header-light-container4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-light-text5 {
+  fill: var(--dl-color-text-text-bodyprimary);
+  color: var(--dl-color-text-text-bodyprimary);
+  margin-right: var(--dl-space-space-halfunit);
+}
+.header-light-chevron-down3 {
+  width: 16px;
+  height: 16px;
+}
+.header-light-button {
+  gap: 8px;
+  height: 40px;
+  display: flex;
+  padding: 12px 24px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(255, 102, 51, 1);
+}
+.header-light-text6 {
+  fill: var(--dl-color-default-white);
+  color: var(--dl-color-default-white);
+}
